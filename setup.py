@@ -27,9 +27,9 @@ with open(os.path.join(here, 'README.md')) as f:
 setup(
     name='Historia',
     version='1.1.0',
-    url='https://github.com/stelong/Historia',
-    author="Stefano Longobardi",
-    author_email="stefano.longobardi.8@gmail.com",
+    url='https://github.com/MarinaStrocchi/Historia',
+    author="",
+    author_email="",
     license='MIT',
     description='A set of more or less powerful tools I developed during my PhD for more or less generic scientific computing purposes',
     long_description=readme,
