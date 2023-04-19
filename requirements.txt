@@ -14,7 +14,7 @@ fonttools==4.29.0
     # via
     #   gpytgpe
     #   matplotlib
-gpytgpe @ git+https://github.com/MarinaStrocchi/gpytGPE.git@master
+gpytgpe @ git+ssh://git@github.com/MarinaStrocchi/gpytGPE.git@master
     # via -r requirements.in
 gpytorch==1.1.1
     # via gpytgpe
