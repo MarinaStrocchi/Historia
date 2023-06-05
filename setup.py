@@ -31,7 +31,7 @@ setup(
     author="",
     author_email="",
     license='MIT',
-    description='A set of more or less powerful tools I developed during my PhD for more or less generic scientific computing purposes',
+    description='Stefano Historia library, with some modifications for better sampling of the non-implausible region. For documentation, refer to the original repository',
     long_description=readme,
     long_description_content_type="text/markdown",
     python_requires='>=3.6',
