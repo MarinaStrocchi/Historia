@@ -1,2 +1,2 @@
 diversipy
-git+https://git@github.com/MarinaStrocchi/gpytGPE.git@master#egg=gpytGPE
+git+ssh://git@github.com/MarinaStrocchi/gpytGPE.git@master#egg=gpytGPE
